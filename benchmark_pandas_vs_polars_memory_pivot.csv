@@ -1,0 +1,12 @@
+operation,pandas,polars
+op10_vendor_rate_agg,463.828125,-1749.28125
+op1_long_trips_count,1845.4375,1250.875
+op2_mean_total_by_passengers,40.3125,-67.484375
+op3_mean_fare_by_hour,-714.40625,-14.765625
+op4_top_tips,-709.546875,-2859.34375
+op5_payment_counts,60.71875,128.75
+op6_mean_distance_by_date,-246.421875,267.34375
+op7_corr_distance_total,222.875,100.171875
+op8_quantile_total,3.328125,0.375
+op9_manhattan_bbox_count,526.015625,2000.34375
+read_csv,390.203125,-302.453125

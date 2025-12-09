@@ -1,4 +1,4 @@
 venv/
 .venv/
-*.csv
+yellow_tripdata_2015-01.csv
 *.zip
